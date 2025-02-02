@@ -32,3 +32,5 @@ router.get("/:slug", getPost);
 
 ![Screenshot 2025-02-02 194040](https://github.com/user-attachments/assets/52841391-923e-4e14-b24d-a580240e1f12)
 
+# Original Youtube tutorial
+https://youtu.be/Pfy3q6PbbRA?si=eoTDDprsfMYnXQbc
